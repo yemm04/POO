@@ -1,4 +1,4 @@
-
+  
 package proyectofinal;
 
 public class Profesor extends Persona{
